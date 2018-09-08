@@ -3,7 +3,7 @@ import unittest
 
 class Sort():
 	"""
-	Implement two method to sort a list : QuickSort and MergeSort. --> Readme for the complexity analysis
+	Implement two methods to sort a list : QuickSort and MergeSort. --> Readme for the complexity analysis
 	"""
 
 	@staticmethod
